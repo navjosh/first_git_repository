@@ -1,2 +1,3 @@
 This is my first file.
-making a correction
+making a correction.
+my seconf commit is ready.
